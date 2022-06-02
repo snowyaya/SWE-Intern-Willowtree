@@ -16,3 +16,9 @@ Project: Fox Sports
 - Refresh `Swift` 
 - Get familar with `Fox Sports iOS` project
 - Start learning `SwiftUI`
+- **Unit Test**
+- **UI Test**
+
+**three big takeaways**
+- project should be releaseable anytime
+- using `Agile` is better than `Waterfall`
