@@ -18,8 +18,8 @@ Project: Fox Sports
 - Start learning `SwiftUI`
 - **Unit Test**
 - **UI Test**
-[ ] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
-[x] [testing in xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+- [ ] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
+- [x] [testing in xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
 
 **three big takeaways**
 - project should be releaseable anytime
@@ -27,5 +27,7 @@ Project: Fox Sports
 
 ## Day 2, June 3rd
 
-[ ] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
-[ ] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
+- [iOS Dependency Injection Using Swinject](https://ali-akhtar.medium.com/ios-dependency-injection-using-swinject-9c4ceff99e41)
+- [ ] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
+
+- [ ] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
