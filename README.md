@@ -13,13 +13,17 @@ Project: Fox Sports
 
 ## Day 2, June 2nd
 
-- Refresh `Swift` 
+- Refresh `Swift` basics [xcode basics](https://drive.google.com/file/d/1Q_-q3yM4H5sYUQyyq6EJOLY9x2e4dw_A/view)
 - Get familar with `Fox Sports iOS` project
 - Start learning `SwiftUI`
 - **Unit Test**
 - **UI Test**
+- [iOS Articles](https://www.raywenderlich.com/ios/articles)
 - [ ] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
-- [x] [testing in xcode](https://developer.apple.com/videos/play/wwdc2019/413/)
+- [x] [Testing in XCode](https://developer.apple.com/videos/play/wwdc2019/413/)
+- [ ] [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
+- [ ] [CS193p-Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+- [ ] [Networking](https://drive.google.com/file/d/10BwFbyINIelfynt6GmFBZTwUiaM4YTxK/view)
 
 **three big takeaways**
 - project should be releaseable anytime
