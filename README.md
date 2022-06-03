@@ -1,4 +1,4 @@
-# SWE-Intern-Willowtree
+# SWE Intern @Willowtree Daily CheckIn
 
 Start: June 1, 2022
 
