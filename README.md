@@ -34,3 +34,9 @@ Project: Fox Sports
 - [ ] [iOS Dependency Injection Using Swinject](https://ali-akhtar.medium.com/ios-dependency-injection-using-swinject-9c4ceff99e41)
 - [ ] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 - [ ] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
+
+## Day 4, June 6th
+- [ ] [Engineering for Testibility](https://developer.apple.com/videos/play/wwdc2017/414/)
+- [ ] [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)
+- [ ] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+- [ ] [XCode Server for iOS - Getting Started](https://www.raywenderlich.com/12258400-xcode-server-for-ios-getting-started)
