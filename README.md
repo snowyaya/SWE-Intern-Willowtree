@@ -21,6 +21,8 @@ Project: Fox Sports
 - [iOS Articles](https://www.raywenderlich.com/ios/articles)
 - [x] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
 - [x] [Testing in XCode](https://developer.apple.com/videos/play/wwdc2019/413/)
+
+Optional
 - [ ] [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 - [ ] [CS193p-Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [ ] [Networking](https://drive.google.com/file/d/10BwFbyINIelfynt6GmFBZTwUiaM4YTxK/view)
@@ -30,12 +32,12 @@ Project: Fox Sports
 - using `Agile` is better than `Waterfall`
 
 ## Day 3, June 3rd
-- [x] Wrote Unit tests and UI tests for [BullEyes](https://github.com/snowyaya/BullsEye) project
-- [ ] [iOS Dependency Injection Using Swinject](https://ali-akhtar.medium.com/ios-dependency-injection-using-swinject-9c4ceff99e41)
-- [ ] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
-- [ ] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
+- [x] [iOS Dependency Injection Using Swinject](https://ali-akhtar.medium.com/ios-dependency-injection-using-swinject-9c4ceff99e41)
+- [x] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
+- [x] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
 
 ## Day 4, June 6th
+- [x] Wrote Unit tests and UI tests for [BullEyes](https://github.com/snowyaya/BullsEye) project
 - [ ] [Engineering for Testibility](https://developer.apple.com/videos/play/wwdc2017/414/)
 - [ ] [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)
 - [ ] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
