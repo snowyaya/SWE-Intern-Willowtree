@@ -37,6 +37,7 @@ Project: Fox Sports
 - [x] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
 
 ![image](https://user-images.githubusercontent.com/75382121/172191932-cdf100ea-024f-4372-85e2-3b697f8fa7eb.png)
+
 Each one of these objects is meant to be separate from the other, and each fulfills a specific role. When building an app that uses a specific pattern, in this case MVC, the goal is to adhere to the pattern when building all layers of your app.
 
 ## Day 4, June 6th
