@@ -19,7 +19,7 @@ Project: Fox Sports
 - **Unit Test**
 - **UI Test**
 - [iOS Articles](https://www.raywenderlich.com/ios/articles)
-- [ ] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
+- [x] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
 - [x] [Testing in XCode](https://developer.apple.com/videos/play/wwdc2019/413/)
 - [ ] [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 - [ ] [CS193p-Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
