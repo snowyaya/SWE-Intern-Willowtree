@@ -59,7 +59,8 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 >The **dependency inversion** principle: "Depend upon abstractions, [not] concretions."[10][4]
 >The SOLID acronym was introduced later, around 2004, by Michael Feathers.[11]
 
-**Optional resources**
+**Optional**
+- [ ] [Test Driven Development](https://qualitycoding.org/tdd-sample-archives/)
 - [ ] [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training)
 Learn the basics of Xcode, SwiftUI, and UIKit to create compelling iOS apps. (12.5 hrs)
 
