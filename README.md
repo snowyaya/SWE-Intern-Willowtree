@@ -30,7 +30,7 @@ Project: Fox Sports
 - using `Agile` is better than `Waterfall`
 
 ## Day 3, June 3rd
-
+- [x] Wrote Unit tests and UI tests for [BullEyes](https://github.com/snowyaya/BullsEye) project
 - [ ] [iOS Dependency Injection Using Swinject](https://ali-akhtar.medium.com/ios-dependency-injection-using-swinject-9c4ceff99e41)
 - [ ] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 - [ ] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
