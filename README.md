@@ -41,6 +41,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 ## Day 4, June 6th
 - [x] Wrote Unit tests and UI tests for [BullEyes](https://github.com/snowyaya/BullsEye) project
+- [x] Attended WWDC22
 - [x] [Engineering for Testibility](https://developer.apple.com/videos/play/wwdc2017/414/)
 - [x] [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)
 - [ ] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
