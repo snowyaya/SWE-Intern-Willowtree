@@ -22,12 +22,12 @@ Project: Fox Sports
 - [x] [iOS testing tutorial](https://www.raywenderlich.com/21020457-ios-unit-testing-and-ui-testing-tutorial#toc-anchor-001)
 - [x] [Testing in XCode](https://developer.apple.com/videos/play/wwdc2019/413/)
 
-Optional
+**Optional**
 - [ ] [SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui)
 - [ ] [CS193p-Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [ ] [Networking](https://drive.google.com/file/d/10BwFbyINIelfynt6GmFBZTwUiaM4YTxK/view)
 
-**three big takeaways**
+**Three big takeaways**
 - project should be releaseable anytime
 - using `Agile` is better than `Waterfall`
 
@@ -36,9 +36,26 @@ Optional
 - [x] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 - [x] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
 
+![image](https://user-images.githubusercontent.com/75382121/172191932-cdf100ea-024f-4372-85e2-3b697f8fa7eb.png)
+Each one of these objects is meant to be separate from the other, and each fulfills a specific role. When building an app that uses a specific pattern, in this case MVC, the goal is to adhere to the pattern when building all layers of your app.
+
 ## Day 4, June 6th
 - [x] Wrote Unit tests and UI tests for [BullEyes](https://github.com/snowyaya/BullsEye) project
 - [ ] [Engineering for Testibility](https://developer.apple.com/videos/play/wwdc2017/414/)
 - [ ] [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)
 - [ ] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
 - [ ] [XCode Server for iOS - Getting Started](https://www.raywenderlich.com/12258400-xcode-server-for-ios-getting-started)
+
+**Concepts**
+
+[Code Smell](https://en.wikipedia.org/wiki/Code_smell)
+
+[Good Engineering Principles - SOLID](https://en.wikipedia.org/wiki/SOLID)
+>The SOLID ideas are
+>The **single-responsibility** principle: "There should never be more than one reason for a class to change."[5] In other words, every class should have only one responsibility.[6]
+>The **open–closed** principle: "Software entities ... should be open for extension, but closed for modification."[7]
+>The **Liskov substitution** principle: "Functions that use pointers or references to base classes must be able to use objects of derived classes without knowing it."[8] See also design by contract.[8]
+>The **interface segregation** principle: "Many client-specific interfaces are better than one general-purpose interface."[9][4]
+>The **dependency inversion** principle: "Depend upon abstractions, [not] concretions."[10][4]
+>The SOLID acronym was introduced later, around 2004, by Michael Feathers.[11]
+
