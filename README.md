@@ -86,3 +86,6 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 ![PasingDataWithBinding](https://user-images.githubusercontent.com/75382121/172684401-ac819f2f-ce15-4671-b16e-f042a5452b76.gif)
 
+- [x] [Making Classes Observable](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
+- [x] [Responding to Events](https://developer.apple.com/tutorials/app-dev-training/responding-to-events)
+- [x] [State Management-Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) 
