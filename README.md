@@ -73,3 +73,8 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [Views-Creating a Card View](https://developer.apple.com/tutorials/app-dev-training/creating-a-card-view)
 - [x] [Views-Displaying Data in a List](https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list)
 
+## Day 6, June 8th
+
+- [x] [Navigation and Modal Presentation-Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
+
+https://docs-assets.developer.apple.com/published/69201e113c7fe18c226b40e6a4ec79e0/600/SUI_040-050-030@2x.mp4
