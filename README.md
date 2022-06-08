@@ -89,3 +89,5 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [Making Classes Observable](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
 - [x] [Responding to Events](https://developer.apple.com/tutorials/app-dev-training/responding-to-events)
 - [x] [State Management-Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) 
+
+![ManageStateAndLifeCycle](https://user-images.githubusercontent.com/75382121/172711290-56554147-9d71-4238-bed8-4a06ffec7b69.gif)
