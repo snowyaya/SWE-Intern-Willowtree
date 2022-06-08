@@ -45,8 +45,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] Attended WWDC22
 - [x] [Engineering for Testibility](https://developer.apple.com/videos/play/wwdc2017/414/)
 - [x] [Testing Tips & Tricks](https://developer.apple.com/videos/play/wwdc2018/417/)
-- [ ] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
-- [ ] [XCode Server for iOS - Getting Started](https://www.raywenderlich.com/12258400-xcode-server-for-ios-getting-started)
+- [x] [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
 
 **Concepts**
 
@@ -63,6 +62,14 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 **Optional**
 - [ ] [Test Driven Development](https://qualitycoding.org/tdd-sample-archives/)
-- [ ] [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training)
-Learn the basics of Xcode, SwiftUI, and UIKit to create compelling iOS apps. (12.5 hrs)
+- [x] [Develop Apps for iOS](https://developer.apple.com/tutorials/app-dev-training) Learn the basics of Xcode, SwiftUI, and UIKit to create compelling iOS apps. (12.5 hrs)
+- [ ] [XCode Server for iOS - Getting Started](https://www.raywenderlich.com/12258400-xcode-server-for-ios-getting-started)
+
+
+## Day 5, June 7th
+
+* 1-on-1 meeting with mentor
+- [x] [SwiftUI Essentials-Using Stacks to Arrange Views](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views)
+- [x] [Views-Creating a Card View](https://developer.apple.com/tutorials/app-dev-training/creating-a-card-view)
+- [x] [Views-Displaying Data in a List](https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list)
 
