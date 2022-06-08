@@ -78,3 +78,4 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [Navigation and Modal Presentation-Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
 ![Navigation Hierarchy](https://user-images.githubusercontent.com/75382121/172638229-f5c06511-06bb-410b-8510-138e7c816033.gif)
 
+- [x] [Managing Data Flow Between Views](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
