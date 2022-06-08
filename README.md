@@ -76,5 +76,5 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 ## Day 6, June 8th
 
 - [x] [Navigation and Modal Presentation-Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
+![Navigation Hierarchy](https://user-images.githubusercontent.com/75382121/172638229-f5c06511-06bb-410b-8510-138e7c816033.gif)
 
-https://docs-assets.developer.apple.com/published/69201e113c7fe18c226b40e6a4ec79e0/600/SUI_040-050-030@2x.mp4
