@@ -98,3 +98,4 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 * 1-on-1 with Asmae
 - [x] [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
 - [x] [State Management-Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data)
+* [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=optimizing%20your%20apps.-,What%20is%20a%20dispatch%20queue%3F,re%20added%20to%20the%20queue.)
