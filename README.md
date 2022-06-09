@@ -91,3 +91,8 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [State Management-Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) 
 
 ![ManageStateAndLifeCycle](https://user-images.githubusercontent.com/75382121/172711290-56554147-9d71-4238-bed8-4a06ffec7b69.gif)
+
+
+## Day 7, June 9th
+
+- [x] [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
