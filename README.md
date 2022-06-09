@@ -95,5 +95,6 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 ## Day 7, June 9th
 
+* 1-on-1 with Asmae
 - [x] [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
 - [x] [State Management-Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data)
