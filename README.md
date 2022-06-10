@@ -81,6 +81,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 - [x] [Managing Data Flow Between Views](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
 - [x] [Navigation and Modal Presentation-Creating the Edit View](https://developer.apple.com/tutorials/app-dev-training/creating-the-edit-view)
+
 ![create_edit_view](https://user-images.githubusercontent.com/75382121/172657069-4e98f948-31c8-4099-aa6d-3f1ab91b75e9.gif)
 
 - [x] [Passing Data with Bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings)
