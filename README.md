@@ -76,6 +76,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 ## Day 6, June 8th
 
 - [x] [Navigation and Modal Presentation-Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
+
 ![Navigation Hierarchy](https://user-images.githubusercontent.com/75382121/172638229-f5c06511-06bb-410b-8510-138e7c816033.gif)
 
 - [x] [Managing Data Flow Between Views](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
@@ -99,3 +100,6 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [Embrace Swift generics](https://developer.apple.com/videos/play/wwdc2022/110352/)
 - [x] [State Management-Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data)
 * [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=optimizing%20your%20apps.-,What%20is%20a%20dispatch%20queue%3F,re%20added%20to%20the%20queue.)
+- [x] [Persisting Data](https://docs-assets.developer.apple.com/published/56cf88f8a660b0bdfda06306cfcda90d/600/SUI_100-060-070@2x.mp4)
+
+![PersistingData](https://user-images.githubusercontent.com/75382121/173067821-223182b7-f969-476c-8ab7-8d54c38ad67f.gif)
