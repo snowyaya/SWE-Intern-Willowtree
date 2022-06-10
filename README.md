@@ -119,3 +119,5 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - DataDog
 - [ART = Agile Release Train](https://www.scaledagileframework.com/agile-release-train/)
 - Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
+- [Fox Wiki](https://foxwiki.praecipio.com/pages/viewpage.action?spaceKey=FSP&title=Technical+Integration)
+- FoxSports iOS Architecture
