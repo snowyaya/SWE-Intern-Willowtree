@@ -118,3 +118,4 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Proxyman
 - DataDog
 - [ART = Agile Release Train](https://www.scaledagileframework.com/agile-release-train/)
+- Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
