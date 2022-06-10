@@ -104,3 +104,6 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [Persisting Data](https://docs-assets.developer.apple.com/published/56cf88f8a660b0bdfda06306cfcda90d/600/SUI_100-060-070@2x.mp4)
 
 ![PersistingData](https://user-images.githubusercontent.com/75382121/173067821-223182b7-f969-476c-8ab7-8d54c38ad67f.gif)
+
+- [x] [Adopting New API Features](https://developer.apple.com/tutorials/app-dev-training/adopting-new-api-features)
+- [x] [Adopting Swift Concurrency](https://developer.apple.com/tutorials/app-dev-training/adopting-swift-concurrency) 
