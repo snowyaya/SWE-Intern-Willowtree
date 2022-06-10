@@ -102,8 +102,11 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [x] [State Management-Updating App Data](https://developer.apple.com/tutorials/app-dev-training/updating-app-data)
 * [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/#:~:text=optimizing%20your%20apps.-,What%20is%20a%20dispatch%20queue%3F,re%20added%20to%20the%20queue.)
 - [x] [Persistence and Concurrency-Persisting Data](https://docs-assets.developer.apple.com/published/56cf88f8a660b0bdfda06306cfcda90d/600/SUI_100-060-070@2x.mp4)
+* Meeting with the manager, Evan
 
 ![PersistingData](https://user-images.githubusercontent.com/75382121/173067821-223182b7-f969-476c-8ab7-8d54c38ad67f.gif)
+
+## Day 8, June 10th
 
 - [x] [Persistence and Concurrency-Adopting New API Features](https://developer.apple.com/tutorials/app-dev-training/adopting-new-api-features)
 - [x] [Persistence and Concurrency-Adopting Swift Concurrency](https://developer.apple.com/tutorials/app-dev-training/adopting-swift-concurrency) 
