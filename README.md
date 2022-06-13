@@ -124,6 +124,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 ## Day 9, June 11th
 
+- [x] [Drawing-Drawing the Timer View](https://developer.apple.com/tutorials/app-dev-training/drawing-the-timer-view)
 - [x] Taboola Swift integration in class unit, web unit, and native unit
 - [x] Taboola SwiftUI integration in class unit, web unit, and native unit
 - [x] Set up and integrate with UIKit and monitored the data
@@ -133,3 +134,5 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 **Biggest Takeaway**
 - Intro plus short and concise update during standup
+- Standup means to update and clear confusion on an overview of the project in different regards; technical questions can be left for internal meeting or with all other developers
+
