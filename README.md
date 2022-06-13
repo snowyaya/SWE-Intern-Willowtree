@@ -121,3 +121,15 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework
 - [Fox Wiki](https://foxwiki.praecipio.com/pages/viewpage.action?spaceKey=FSP&title=Technical+Integration)
 - FoxSports iOS Architecture
+
+## Day 9, June 11th
+
+- [x] Taboola Swift integration in class unit, web unit, and native unit
+- [x] Taboola SwiftUI integration in class unit, web unit, and native unit
+- [x] Set up and integrate with UIKit and monitored the data
+- Standup meeting
+    - Tickets
+    - Pair up work on Datadog ticket
+
+**Biggest Takeaway**
+- Intro plus short and concise update during standup
