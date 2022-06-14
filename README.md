@@ -136,3 +136,14 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Intro plus short and concise update during standup
 - Standup means to update and clear confusion on an overview of the project in different regards; technical questions can be left for internal meeting or with all other developers
 
+## Day 10, June 14th
+
+- [x] [Examining Data Flow in Scrumdinger](https://developer.apple.com/tutorials/app-dev-training/examining-data-flow-in-scrumdinger)
+- [x] [Recording Audio-Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text)
+- Completed SwiftUI tutorial!
+
+- Swift Dependency Injection
+- [Simple Dependency injection in Swift](https://medium.com/swlh/simple-dependency-injection-in-swift-2e0a9dfb50c)
+- [Dependency Injection in Swift](https://medium.com/swlh/dependency-injection-in-swift-964e1caaa8c1)
+
+- [x] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
