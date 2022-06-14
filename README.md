@@ -149,7 +149,15 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [ ] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
 - [ ] [Dependency Injection Tutorial for iOS: Getting Started](https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started)
 
-🐶 FUN Topics about iOS
+**Biggest Takeaway**
+- Retro the project after Completion
+    - Adding pictures are better than words in most cases. **communication**
+    - Documentation template, Layout manager/Spark types could be more helpful. **communication**
+    - Solving one question should not cause more questions. 
+    - ❓ What helps/stops internal communication efficiency? 
+
+
+<🐶 FUN Topics about iOS> 
 - [ ] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
 - [ ] [Design Patterns by Tutorials: MVVM]https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm(https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
 - [ ] [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
