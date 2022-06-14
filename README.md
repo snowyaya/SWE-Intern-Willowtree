@@ -157,7 +157,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
     - ❓ What helps/stops internal communication efficiency? 
 
 
-<🐶 FUN Topics about iOS> 
+<Details>🐶 FUN Topics about iOS
 - [ ] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
 - [ ] [Design Patterns by Tutorials: MVVM]https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm(https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
 - [ ] [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
