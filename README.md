@@ -146,4 +146,14 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [Simple Dependency injection in Swift](https://medium.com/swlh/simple-dependency-injection-in-swift-2e0a9dfb50c)
 - [Dependency Injection in Swift](https://medium.com/swlh/dependency-injection-in-swift-964e1caaa8c1)
 
-- [x] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
+- [ ] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
+- [ ] [Dependency Injection Tutorial for iOS: Getting Started](https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started)
+
+🐶 FUN Topics about iOS
+- [ ] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
+- [ ] [Design Patterns by Tutorials: MVVM]https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm()
+- [ ] [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
+- [ ] [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/476-design-patterns-on-ios-using-swift-part-2-2)
+- [ ] [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
+- [ ] [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
+- [ ] [MVVM with Combine Tutorial for iOS](MVVM with Combine Tutorial for iOS)
