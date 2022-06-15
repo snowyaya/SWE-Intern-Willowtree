@@ -147,7 +147,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [Dependency Injection in Swift](https://medium.com/swlh/dependency-injection-in-swift-964e1caaa8c1)
 
 - [ ] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
-- [ ] [Dependency Injection Tutorial for iOS: Getting Started](https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started)
+- [x] [Dependency Injection Tutorial for iOS: Getting Started](https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started)
 
 **Biggest Takeaway**
 - Retro the project after Completion
@@ -155,6 +155,18 @@ Each one of these objects is meant to be separate from the other, and each fulfi
     - Documentation template, Layout manager/Spark types could be more helpful. **communication**
     - Solving one question should not cause more questions. 
     - ❓ What helps/stops internal communication efficiency? 
+
+## Day 11, June 15th
+
+- Learning more about dependency injection pattern
+- [Design Patterns Explained – Dependency Injection with Code Examples](https://stackify.com/dependency-injection/)
+    - The 4 roles in dependency injection
+        - The service you want to use.
+        - The client that uses the service.
+        - An interface that’s used by the client and implemented by the service.
+        - The injector which creates a service instance and injects it into the client.
+- FSAPP Iteration Planning
+- Working on Datadog feature flag
 
 
 <details>
