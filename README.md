@@ -168,7 +168,9 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - FSAPP Iteration Planning
 - [Swift 5.1 Takes Dependency Injection to the Next Level](https://betterprogramming.pub/taking-swift-dependency-injection-to-the-next-level-b71114c6a9c6)
 - Working on Datadog feature flag
-
+- Discussions on Datadog feature flag implementation
+- Layout Manager walkthrough
+- Implemented datadog setup in codebase and commited first pr!!! 🎉
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
