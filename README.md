@@ -172,6 +172,10 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Layout Manager walkthrough
 - Implemented datadog setup in codebase and commited first pr!!! 🎉
 
+## Day 12, June 16th
+
+- [x] [Swinject Tutorial for iOS: Getting Started](https://www.raywenderlich.com/17-swinject-tutorial-for-ios-getting-started#toc-anchor-003)
+
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
 - [ ] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
