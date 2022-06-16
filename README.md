@@ -36,8 +36,6 @@ Project: Fox Sports
 - [x] MVP architecture in iOS [Model-View-Controller (MVC) in iOS – A Modern Approach](https://www.raywenderlich.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
 - [x] [Taming MVC with Model View Presenter](https://www.youtube.com/watch?v=iIcGunopmfQ)
 
-![image](https://user-images.githubusercontent.com/75382121/172191932-cdf100ea-024f-4372-85e2-3b697f8fa7eb.png)
-
 Each one of these objects is meant to be separate from the other, and each fulfills a specific role. When building an app that uses a specific pattern, in this case MVC, the goal is to adhere to the pattern when building all layers of your app.
 
 ## Day 4, June 6th
@@ -76,24 +74,12 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 ## Day 6, June 8th
 
 - [x] [Navigation and Modal Presentation-Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
-
-![Navigation Hierarchy](https://user-images.githubusercontent.com/75382121/172638229-f5c06511-06bb-410b-8510-138e7c816033.gif)
-
 - [x] [Managing Data Flow Between Views](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
 - [x] [Navigation and Modal Presentation-Creating the Edit View](https://developer.apple.com/tutorials/app-dev-training/creating-the-edit-view)
-
-![create_edit_view](https://user-images.githubusercontent.com/75382121/172657069-4e98f948-31c8-4099-aa6d-3f1ab91b75e9.gif)
-
 - [x] [Passing Data with Bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings)
-
-![PasingDataWithBinding](https://user-images.githubusercontent.com/75382121/172684401-ac819f2f-ce15-4671-b16e-f042a5452b76.gif)
-
 - [x] [Making Classes Observable](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
 - [x] [Responding to Events](https://developer.apple.com/tutorials/app-dev-training/responding-to-events)
 - [x] [State Management-Managing State and Life Cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle) 
-
-![ManageStateAndLifeCycle](https://user-images.githubusercontent.com/75382121/172711290-56554147-9d71-4238-bed8-4a06ffec7b69.gif)
-
 
 ## Day 7, June 9th
 
