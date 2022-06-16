@@ -156,14 +156,14 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Working on Datadog feature flag
 - Discussions on Datadog feature flag implementation
 - Layout Manager walkthrough
-- Implemented datadog setup in codebase and commited first pr!!! 🎉
+- Implemented datadog setup in codebase and made the first commit!!! 🎉
 
 ## Day 12, June 16th
 
 - [x] [Swinject Tutorial for iOS: Getting Started](https://www.raywenderlich.com/17-swinject-tutorial-for-ios-getting-started#toc-anchor-003)
 - 1 on 1 with Mentor
 - Learned Concurrency in Swift
-- [x] Implemented the backend of Datadog feature dog, make sure the events are sent to Datadog when Datadog feature is enabled. 
+- [x] Implemented the backend of Datadog feature dog, make sure the events are sent to Datadog when Datadog feature is enabled. Made the second commit!!! 🎉
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
