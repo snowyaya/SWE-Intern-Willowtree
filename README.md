@@ -178,11 +178,13 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
-- [ ] [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
-- [ ] [Design Patterns by Tutorials: MVVM]https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm(https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
-- [ ] [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
-- [ ] [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/476-design-patterns-on-ios-using-swift-part-2-2)
-- [ ] [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
-- [ ] [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
+    
+- ⭐️ [SwiftUI and Structured Concurrency](https://www.raywenderlich.com/31056103-swiftui-and-structured-concurrency)
+- [Push Notifications Tutorial: Getting Started](https://www.raywenderlich.com/11395893-push-notifications-tutorial-getting-started)
+- [Design Patterns by Tutorials: MVVM]https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm(https://www.raywenderlich.com/34-design-patterns-by-tutorials-mvvm)
+- [Design Patterns on iOS using Swift – Part 1/2](https://www.raywenderlich.com/477-design-patterns-on-ios-using-swift-part-1-2)
+- [Design Patterns on iOS using Swift – Part 2/2](https://www.raywenderlich.com/476-design-patterns-on-ios-using-swift-part-2-2)
+- [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
+- [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 
 </details>
