@@ -165,6 +165,19 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Learned Concurrency in Swift
 - [x] Implemented the backend of Datadog feature dog, make sure the events are sent to Datadog when Datadog feature is enabled. Made the second commit!!! 🎉
 
+## June 17th
+
+- Learning Agile by doing Agile
+- Biggest takeaways
+    - how to start a project from scratch
+    - how to get an idea onto the ground
+    - how to make MVP
+
+## June 21st
+
+- Standup:
+    - Mentor made a doc including what functions that need to be refactored and the internal logics in terms of reporting custom events to Datadog, and showed me how to refactor one of the nonneeded functions. Going to work on the rest of them today.
+
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
     
