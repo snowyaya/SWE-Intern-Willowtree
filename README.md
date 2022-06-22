@@ -181,6 +181,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Refactor methods
 
 **Biggest Takeaway*
+
 - Document the tasks for internal review and communication, i.e., the relevant methods that needs review
 - Focus on the internal logics
     
