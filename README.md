@@ -132,7 +132,7 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - [Simple Dependency injection in Swift](https://medium.com/swlh/simple-dependency-injection-in-swift-2e0a9dfb50c)
 - [Dependency Injection in Swift](https://medium.com/swlh/dependency-injection-in-swift-964e1caaa8c1)
 
-- [ ] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
+- [x] [Resolver for iOS Dependency Injection: Getting Started](https://www.raywenderlich.com/22203552-resolver-for-ios-dependency-injection-getting-started)
 - [x] [Dependency Injection Tutorial for iOS: Getting Started](https://www.raywenderlich.com/14223279-dependency-injection-tutorial-for-ios-getting-started)
 
 **Biggest Takeaway**
@@ -168,15 +168,27 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 ## June 17th
 
 - Learning Agile by doing Agile
-- Biggest takeaways
+
+**Biggest takeaways**
     - how to start a project from scratch
     - how to get an idea onto the ground
     - how to make MVP
 
 ## June 21st
 
-- Standup:
-    - Mentor made a doc including what functions that need to be refactored and the internal logics in terms of reporting custom events to Datadog, and showed me how to refactor one of the nonneeded functions. Going to work on the rest of them today.
+- Review the documents with mentor
+- Standup
+- Refactor methods
+
+**Biggest Takeaway*
+- Document the tasks for internal review and communication, i.e., the relevant methods that needs review
+- Focus on the internal logics
+    
+## June 22nd
+
+- Understand of how `resolver` used in `Swinject` framework
+- Standup
+- [personal information under the CCPA](https://www.collibra.com/us/en/blog/what-is-personal-information-under-the-ccpa#:~:text=Internet%20or%20other%20electronic%20network%20activity%20information%20such%20as%20browsing%20history%2C%20search%20history%2C%20or%20information%20regarding%20a%20consumer%E2%80%99s%20interaction%20with%20a%20website%2C%20application%2C%20or%20advertisement)
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
