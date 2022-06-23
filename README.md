@@ -190,6 +190,14 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 - Understand of how `resolver` used in `Swinject` framework
 - Standup
 - [personal information under the CCPA](https://www.collibra.com/us/en/blog/what-is-personal-information-under-the-ccpa#:~:text=Internet%20or%20other%20electronic%20network%20activity%20information%20such%20as%20browsing%20history%2C%20search%20history%2C%20or%20information%20regarding%20a%20consumer%E2%80%99s%20interaction%20with%20a%20website%2C%20application%2C%20or%20advertisement)
+- Refactored NewRelic custom event
+- Integrated Datadog with userAction and errors
+
+## June 23rd
+
+- Code was revised based on other engineer's comments
+- PR was reviewed and approved
+- - Need another PR to permanently enable Datadog
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
