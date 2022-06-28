@@ -197,7 +197,17 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 - Code was revised based on other engineer's comments
 - PR was reviewed and approved
-- - Need another PR to permanently enable Datadog
+- Need another PR to permanently enable Datadog
+
+## June 24th
+
+- Added CrashTheApp option into codebase for the testing purpose and made the pr
+- Implemented `Speechly` with a sample project: `Candy Search`
+
+
+## June 28th
+
+- Refactor `Speechly` in `Candy Search`
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
