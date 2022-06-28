@@ -208,6 +208,10 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 ## June 28th
 
 - Refactor `Speechly` in `Candy Search`
+- Meeting with business development
+    - What's the hardest part of business delopment?
+    - When does the business development happen?
+    - How does the engineering background help?
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
