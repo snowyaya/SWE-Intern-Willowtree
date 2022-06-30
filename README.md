@@ -225,7 +225,6 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 ## June 30th
 
 - Dived into the details of the procedures
-- [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
@@ -238,4 +237,9 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - [URLSession Tutorial: Getting Started](https://www.raywenderlich.com/3244963-urlsession-tutorial-getting-started)
 - [Swift Interview Questions and Answers](https://www.raywenderlich.com/762435-swift-interview-questions-and-answers)
 - ⭐️ [Server-Side Swift with Vapor](https://www.raywenderlich.com/21451628-server-side-swift-with-vapor)
+- [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
+- [Swift “_” Operator – When Use Underscore in Swift?](https://www.codingem.com/swift-underscore/#:~:text=In%20Swift%2C%20the%20underscore%20operator,looping%20parameter%20in%20the%20loop.&text=In%20function%20calls%2C%20you%20can,the%20argument%20in%20the%20implementation.)
+- ⭐️ [Glossary of Common Swift Terms](https://www.hackingwithswift.com/glossary)
+- ⭐️⭐️⭐️ [The 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- ⭐️⭐️⭐️ [The 100 Days of Swift](https://www.hackingwithswift.com/100)
 </details>
