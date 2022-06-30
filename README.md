@@ -225,6 +225,7 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 ## June 30th
 
 - Dived into the details of the procedures
+- [Concurrent vs Serial DispatchQueue: Concurrency in Swift explained](https://www.avanderlee.com/swift/concurrent-serial-dispatchqueue/)
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
