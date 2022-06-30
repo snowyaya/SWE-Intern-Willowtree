@@ -209,9 +209,22 @@ Each one of these objects is meant to be separate from the other, and each fulfi
 
 - Refactor `Speechly` in `Candy Search`
 - Meeting with business development
-    - What's the hardest part of business delopment?
-    - When does the business development happen?
-    - How does the engineering background help?
+- Understanding `intent` and `entity` in `Speechly`
+
+## June 29th
+
+- Investigated logics of integrating `voice` into the app
+
+```
+Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify EntityLink -> Navigate to link in app
+```
+
+- Investigated the SAL `Speechly Annotation Language`
+- Investigated the algorithm used for searching in the current app (not very efficient)
+
+## June 30th
+
+- Dived into the details of the procedures
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
