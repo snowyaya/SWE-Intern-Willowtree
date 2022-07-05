@@ -226,6 +226,12 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 
 - Dived into the details of the procedures
 
+## July 1st
+
+- More debugging with `Speechly` package
+
+## July 5th
+
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
     
