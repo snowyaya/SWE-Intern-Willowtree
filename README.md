@@ -231,8 +231,13 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - More debugging with `Speechly` package
 
 ## July 5th
-- ⭐️ [Clean Architecture and MVVM on iOS
-](https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3)
+- ⭐️ [Clean Architecture and MVVM on iOS](https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3)
+- `Speechly` CLT tool and testing on local machine
+
+## July 6th
+
+- Algorithm in searching entities
+- Navigation in the app
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
