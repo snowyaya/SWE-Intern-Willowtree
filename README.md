@@ -236,8 +236,19 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 
 ## July 6th
 
-- Algorithm in searching entities
-- Navigation in the app
+- Algorithm in searching entities in Bifrost/Spark
+- Navigation to the team/player/league inside the app
+
+## July 7th
+
+- Combined with the output received from `Speechly`
+- Refactored `searchRequest`, `updateRequest`, `navigateForRequest`
+
+## July 8th
+
+- Design `listening` view in Figma
+- Add `cancel` and `restart` feature
+
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
