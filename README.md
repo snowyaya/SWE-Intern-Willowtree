@@ -249,6 +249,8 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - Design `listening` view in Figma
 - Add `cancel` and `restart` feature
 
+## July 11th
+
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
