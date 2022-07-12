@@ -253,11 +253,15 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 ## July 11th
 
 - Add `SpeechlyButtonView`
-- Had breakfast with branch leaders
 - Official internal kickoff with the project
     - timeline
     - objectives
     - business values
+
+## July 12th
+
+- Had breakfast with branch leaders
+
     
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
