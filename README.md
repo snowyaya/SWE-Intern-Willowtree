@@ -261,6 +261,16 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 ## July 12th
 
 - Had breakfast with branch leaders
+    - What to focus on in the first couple of years as an engineer?
+        - Architecture of the product
+        - Debugging 
+        - Break down big problems to smallers pieces
+- Updating the mic button and speechly state in speechly sheet depending on whether user is talking or stops talking
+
+## July 13th
+
+- Combined with what my partner's work in terms of the UI
+- Have a better understanding of `MVP`
 
     
 <details>
