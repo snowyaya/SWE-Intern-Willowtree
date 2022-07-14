@@ -289,4 +289,5 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - ⭐️ [Glossary of Common Swift Terms](https://www.hackingwithswift.com/glossary)
 - ⭐️⭐️⭐️ [The 100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - ⭐️⭐️⭐️ [The 100 Days of Swift](https://www.hackingwithswift.com/100)
+- [x][UIGestureRecognizer Tutorial: Getting Started](https://www.raywenderlich.com/6747815-uigesturerecognizer-tutorial-getting-started)
 </details>
