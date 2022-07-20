@@ -272,6 +272,19 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - Combined with what my partner's work in terms of the UI
 - Have a better understanding of `MVP`
 
+## July 14th
+
+## July 15th
+
+## July 18th
+
+- 
+
+## July 19th
+
+- Testing `Speechly` feature with different intents and entities
+- `Speechly` test sessions/interviews
+- `Taboola` UIView in `league` 
     
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
