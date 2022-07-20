@@ -274,11 +274,18 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 
 ## July 14th
 
+- Updated the transcript sheet
+- Worked on UI of the `Speechly` 
+
 ## July 15th
+
+- Testing and recorded issues
+- Fixed the button transition in ButtonView
 
 ## July 18th
 
-- 
+- Updating the multi-word highlight in transcript
+- Fixed the button transition in ButtonView
 
 ## July 19th
 
@@ -286,6 +293,8 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
 - `Speechly` test sessions/interviews
 - `Taboola` UIView in `league` 
     
+## July 20th
+
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
     
