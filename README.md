@@ -307,6 +307,9 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
         - try alternate solution
         - pay attention to every small `verb` step in the code base
         - understand the flow between functions
+        - watch fellow developer while debugging
+    - [how to improve your debugging skills](https://www.freecodecamp.org/news/how-to-improve-your-debugging-skills/)
+    - [7 debugging techniques to speech up troubleshooting in production](https://www.toptal.com/qa/7-debugging-techniques-prod)
 
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
