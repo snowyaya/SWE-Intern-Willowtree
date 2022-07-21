@@ -295,6 +295,19 @@ Segment returned from Speechly -> ExploreService -> obtain EntityLink -> Modify 
     
 ## July 20th
 
+- Fixed multi-word highlighting issue in the transcript view
+- Fixed multi-entites navigation when one valid input returns more than one entity from the back end, ensuring it goes to the right page
+
+## July 21st
+
+- Drew UML diagram 
+
+- Takeaways 
+    - Debugging skills
+        - try alternate solution
+        - pay attention to every small `verb` step in the code base
+        - understand the flow between functions
+
 <details>
 <summary>🐶 FUN Topics about iOS</summary>
     
